@@ -148,21 +148,21 @@
       "city": "Lovelock",
       "state": "NV",
       "date": "February 2022",
-      "memory": "Discovering howbeautiful hot air balloons are"
+      "memories": "Discovering howbeautiful hot air balloons are"
     },
     {
       "id": 10,
       "city": "Reno - Reno Air Races",
       "state": "NV",
       "date": "September 2022",
-      "memory": "Fighter jets!"
+      "memories": "Fighter jets!"
     },
     {
       "id": 11,
       "city": "Dead Cow - High Sierra Fly In",
       "state": "NV",
       "date": "October 2022",
-      "memory": "Bonfires and remembering that we need scooters for next year"
+      "memories": "Bonfires and remembering that we need scooters for next year"
     }
   ],
   "future": [
