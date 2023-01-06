@@ -1,52 +1,215 @@
 {
-  "toys": [
+  "travels": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "city": "Big Sur",
+      "state": "CA",
+      "date": "January 2021",
+      "photo": "https://i.imgur.com/D752YtA.jpeg"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "city": "San Francisco",
+      "state": "CA",
+      "date": "January 2021",
+      "photo": "https://imgur.com/U2lrgvE.jpeg"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "city": "June Lake",
+      "state": "CA",
+      "date": "February 2021",
+      "photo": "https://imgur.com/UWb7M5M.jpeg"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "city": "Miami",
+      "state": "FL",
+      "date": "March 2021",
+      "photo": "https://imgur.com/Ezf2Lkd.jpeg"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "city": "Twentynine Palms - Joshua Tree",
+      "state": "CA",
+      "date": "April 2021",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6z7A9al-f_XrzS0s7DXL_XWXlYqfPdLS-g&usqp=CAU"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "city": "Hat Creek - Burney Falls",
+      "state": "CA",
+      "date": "May 2021",
+      "photo": "https://imgur.com/k3WVxTk.jpeg"
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "city": "Yosemite",
+      "state": "CA",
+      "date": "July 2021",
+      "photo": "https://imgur.com/OekCLuA.jpeg"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "city": "Dead Cow - High Sierra Fly In",
+      "state": "NV",
+      "date": "October 2021",
+      "photo": "https://imgur.com/YZV0CNI.jpeg"
+    },
+    {
+      "id": 9,
+      "city": "Lovelock",
+      "state": "NV",
+      "date": "February 2022",
+      "photo": "https://imgur.com/sLFQc3e.jpeg"
+    },
+    {
+      "id": 10,
+      "city": "Reno - Reno Air Races",
+      "state": "NV",
+      "date": "September 2022",
+      "photo": "https://imgur.com/zukz1ua.jpeg"
+    },
+    {
+      "id": 11,
+      "city": "Dead Cow - High Sierra Fly In",
+      "state": "NV",
+      "date": "October 2022",
+      "photo": "https://imgur.com/3O9VSJK.jpeg"
+    },
+    {
+      "id": 12,
+      "city": "Truckee Tahoe",
+      "state": "CA",
+      "date": "January 2023",
+      "photo": "https://imgur.com/flSxfuK.jpeg"
+    }
+  ],
+  "memories": [
+    {
+      "id": 1,
+      "city": "Big Sur",
+      "state": "CA",
+      "date": "January 2021",
+      "memories": [
+        "First road trip",
+        "First feeling of butterflies"
+      ]
+    },
+    {
+      "id": 2,
+      "city": "San Francisco",
+      "state": "CA",
+      "date": "January 2021",
+      "memories": [
+        "First overnight trip",
+        "First kiss"
+      ]
+    },
+    {
+      "id": 3,
+      "city": "June Lake",
+      "state": "CA",
+      "date": "February 2021",
+      "memories": [
+        "June Pie Pizza!"
+      ]
+    },
+    {
+      "id": 4,
+      "city": "Miami",
+      "state": "FL",
+      "date": "March 2021",
+      "memories": [
+        "First flying trip",
+        "Beach days"
+      ]
+    },
+    {
+      "id": 5,
+      "city": "Twentynine Palms - Joshua Tree",
+      "state": "CA",
+      "date": "April 2021",
+      "memories": [
+        "Trying to get hit by a jumping catcus"
+      ]
+    },
+    {
+      "id": 6,
+      "city": "Hat Creek - Burney Falls",
+      "state": "CA",
+      "date": "May 2021",
+      "memories": [
+        "Birthday trip",
+        "Driving into the woods to eat McDonalds in peace"
+      ]
+    },
+    {
+      "id": 7,
+      "city": "Yosemite",
+      "state": "CA",
+      "date": "July 2021",
+      "memories": [
+        "Hiking in converse",
+        "Staying in a yurt"
+      ]
+    },
+    {
+      "id": 8,
+      "city": "Dead Cow - High Sierra Fly In",
+      "state": "NV",
+      "date": "October 2021",
+      "memories": [
+        "First aviation event!",
+        "Ice cream",
+        "Airplane drag races"
+      ]
+    },
+    {
+      "id": 9,
+      "city": "Lovelock",
+      "state": "NV",
+      "date": "February 2022",
+      "memories": [
+        "Discovering howbeautiful hot air balloons are"
+      ]
+    },
+    {
+      "id": 10,
+      "city": "Reno - Reno Air Races",
+      "state": "NV",
+      "date": "September 2022",
+      "memories": [
+        "Fighter jets!"
+      ]
+    },
+    {
+      "id": 11,
+      "city": "Dead Cow - High Sierra Fly In",
+      "state": "NV",
+      "date": "October 2022",
+      "memories": [
+        "Bonfires",
+        "Remembering that we need to get electric scooters for next year"
+      ]
+    }
+  ],
+  "future": [
+    {
+      "id": 1,
+      "city": "Reno - Reno Air Races",
+      "state": "NV",
+      "date": "September 2023",
+      "reason": "To see airplanes race and look at all of the historic planes on display.",
+      "photo": "https://airrace.org/wp-content/uploads/2022/10/RARA-572-Slider-1600x500-SaveDate.jpg"
+    },
+    {
+      "id": 2,
+      "city": "Dead Cow - High Sierra Fly In",
+      "state": "NV",
+      "date": "October 2023",
+      "reason": "HSFI is my favorite event of the year and it is SO MUCH FUN!",
+      "photo": "https://images.squarespace-cdn.com/content/v1/5d28918aac84400001df0f2c/7671661a-794c-4c8f-b547-644844ab8869/Screen+Shot+2022-09-30+at+11.12.24+AM.png?format=1500w"
     }
   ]
 }
